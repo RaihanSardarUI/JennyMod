@@ -1,15 +1,6 @@
 {
-  "version": "2.3.1",
-  "url": "https://yasdownload.net/fapcraft",
-  "notes": "🎮 Current Version Features:\n- Initial release\n- Basic functionality implemented\n- Multiple language support",
-  "release": "December 24, 2024",
-  "mc_version": "1.12.2",
-  "forge_version": "14.23.5.2847",
-  "is_mandatory": false,
-  "changelog": [
-    "Initial release of Fapcraft",
-    "Added multiple language support",
-    "Implemented basic features",
-    "Added voice acting support"
-  ]
+    "version": "2.2.0",
+    "url": "https://github.com/RaihanSardarUI/JennyMod/releases/download/v1.2.0/Fapcraft-1.2.0.jar",
+    "release": "2024-12-24",
+    "notes": "New version with bug fixes and improvements"
 }
